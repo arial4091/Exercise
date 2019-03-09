@@ -1,3 +1,5 @@
+// 在一個圓內，找出"最多不相交弦數"。
+
 #include <stdio.h>
 #include <iostream>
 #include <vector>
