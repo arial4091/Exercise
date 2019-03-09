@@ -1,3 +1,5 @@
+// 此作業為了解一種小遊戲"Nonogram"
+
 #include <stdio.h>
 #include <iostream>
 #include <vector>
